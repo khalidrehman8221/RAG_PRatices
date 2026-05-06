@@ -13,5 +13,6 @@ touch  setup.py
 touch  app.py
 touch  research/trials.ipynb
 touch requirements.txt
+touch chroma.ipynb
 
 echo "Successfully created the project structure and files."
